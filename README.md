@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @jvstch
 - 👀 Iot, Cloud automation(AWS,GCP,APIGEE), Electronics, Linux kernel related,etc
 - 💞️ I’m looking to collaborate on Iot, Cloud automation and electronics projects
 - 📫 How to reach me: jvstch@protonmail.com
